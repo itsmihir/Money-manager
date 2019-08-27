@@ -1,4 +1,3 @@
-
 # This program is to keep record of expenditures.
 
 
