@@ -7,8 +7,7 @@ Works on Windows with some changes(given below).
 
 
 # How to run?
-1.g++ MM.cpp
-2../a.out
+1.g++ MM.cpp    2../a.out
 
 
 # How to run on windows?
